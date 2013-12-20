@@ -1,0 +1,13 @@
+[{
+    "id": "smartcomparemenu",
+    "command": "smart_compare",
+    "caption": "SmartCompare"
+}, {
+    "id": "svncommitmenu",
+    "command": "svn_commit",
+    "caption": "SVN Commit"
+}, {
+    "id": "svnupdatemenu",
+    "command": "svn_update",
+    "caption": "SVN Update"
+}]

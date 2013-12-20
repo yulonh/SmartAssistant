@@ -1,0 +1,9 @@
+{
+    "SVNPath": "D:/Software/svn/bin/svn",
+    "BeyondComparePath": "D:/Software/Beyond Compare 3/BCompare",
+    "match": "\\\\dev_branches\\\\",
+    "rules": {
+        "\\build_tool\\": "/build_tool_trunk/",
+        "F:\\dev_branches\\": "C:/Users/yulonhdeng/Desktop/svn/"
+    }
+}
